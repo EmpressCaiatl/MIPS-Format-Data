@@ -1,5 +1,5 @@
 ###########################################################################
-#  Name: Isabella Maffeo
+#  Name: Isabella
 #  Assignment: MIPS #2
 #  Description:  Calculate the surface area of a 3D trapezoid.
 #				 Become more familiar with MIPS arithmetic.
